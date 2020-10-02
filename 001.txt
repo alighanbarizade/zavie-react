@@ -7,4 +7,8 @@ git config (khoone)
 
 git clone
 
+<<<<<<< HEAD
 git push
+=======
+git pull
+>>>>>>> 027b06dcdfa6e39c463c6e76128815afc60d8707
