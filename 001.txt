@@ -5,3 +5,4 @@ git add <file>
 git commit -m "message"
 git config (khoone)
 
+git clone
