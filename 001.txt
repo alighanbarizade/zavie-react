@@ -6,3 +6,5 @@ git commit -m "message"
 git config (khoone)
 
 git clone
+
+git pull
